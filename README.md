@@ -2,6 +2,9 @@
 ## Business Insights 360 – Power BI Project By Codebasics
 The Business Insights project is a part of the Codebasics Data Analytics Bootcamp.
 
+### Live Dashboard Link:https://app.powerbi.com/reportEmbed?reportId=2f8ded4b-e773-4752-b06f-7d2eeea7ca64&autoAuth=true&ctid=1b784bbf-de20-410a-834d-4184dffe7ac0
+
+
 ### About AtliQ Hardware
 AtliQ Hardware manufactures and sells hardware like PC, Mouse, Printers, etc., to multiple companies across the world. AtliQ’s customers are companies like Croma, Amazon, Neptune, Staples, Walmart, etc. These customers are of two types – Physical Stores and E-commerce platforms.
 
