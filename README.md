@@ -2,7 +2,7 @@
 ## Business Insights 360 – Power BI Project By Codebasics
 The Business Insights project is a part of the Codebasics Data Analytics Bootcamp.
 
-### Live Dashboard Link:https://app.powerbi.com/reportEmbed?reportId=2f8ded4b-e773-4752-b06f-7d2eeea7ca64&autoAuth=true&ctid=1b784bbf-de20-410a-834d-4184dffe7ac0
+### Live Dashboard Link:[https://app.powerbi.com/reportEmbed?reportId=2f8ded4b-e773-4752-b06f-7d2eeea7ca64&autoAuth=true&ctid=1b784bbf-de20-410a-834d-4184dffe7ac0](https://app.powerbi.com/view?r=eyJrIjoiYzI4NjUzODctNzlkNS00YTNkLTgzZDctNDg2Nzc4OGEzMjg5IiwidCI6IjFiNzg0YmJmLWRlMjAtNDEwYS04MzRkLTQxODRkZmZlN2FjMCIsImMiOjEwfQ%3D%3D)
 
 
 ### About AtliQ Hardware
